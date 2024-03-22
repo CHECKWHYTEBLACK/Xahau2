@@ -26,7 +26,7 @@ function App() {
                 </span>
               </h1>
               <a
-                href="https://xahaudapps.on.fleek.co"
+                href="https://xahuadapps.on.fleek.co"
                 role="button"
                 target="_blank"
                 className="contrast whitepaper"
@@ -62,7 +62,7 @@ function App() {
                 </svg>
               </a>
               <a
-                href="https://xahaudapps.on.fleek.co"
+                href="https://xahuadapps.on.fleek.co"
                 role="button"
                 target="_blank"
                 className="contrast whitepaper"
